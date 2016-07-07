@@ -1,0 +1,14 @@
+layout_spectrum: 0.7182631690520793
+typography_spectrum: 0.49098326032981277
+color:
+  brandStrength: 0.6040759012103081
+  lightness: 0.42597140511497855
+  saturation: 0.3035170098301023
+  rhythmicContrast: 0.4488865283783525
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Realtime Rendering
